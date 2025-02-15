@@ -1,0 +1,446 @@
+[
+  {
+    "name": "jimmiy from hannaford",
+    "cycle": "unknown",
+    "start_date": "2025-02-12",
+    "category": "software",
+    "amount": 12.65
+  },
+  {
+    "name": "your payment",
+    "cycle": "unknown",
+    "start_date": "2025-02-09",
+    "category": "utilities",
+    "amount": 87.5
+  },
+  {
+    "name": "discover card",
+    "cycle": "unknown",
+    "start_date": "2025-02-08",
+    "category": "software",
+    "amount": 369.89,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "jimmiy from 7",
+    "cycle": "unknown",
+    "start_date": "2025-02-07",
+    "category": "software",
+    "amount": 22.46
+  },
+  {
+    "name": "jimmiy from dollar general",
+    "cycle": "unknown",
+    "start_date": "2025-02-07",
+    "category": "software",
+    "amount": 22.93
+  },
+  {
+    "name": "doordash order",
+    "cycle": "unknown",
+    "start_date": "2025-02-06",
+    "category": "software",
+    "amount": 35.8
+  },
+  {
+    "name": "southside manor llc",
+    "cycle": "unknown",
+    "start_date": "2025-02-01",
+    "category": "rent",
+    "amount": 1684.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "grammarly hello",
+    "cycle": "unknown",
+    "start_date": "2025-01-28",
+    "category": "entertainment"
+  },
+  {
+    "name": "discover card discover",
+    "cycle": "unknown",
+    "start_date": "2025-01-27",
+    "category": "software",
+    "amount": 552.32
+  },
+  {
+    "name": "starbucks starbucks",
+    "cycle": "yearly",
+    "start_date": "2025-01-22",
+    "category": "utilities"
+  },
+  {
+    "name": "xfinity online communications",
+    "cycle": "unknown",
+    "start_date": "2025-01-15",
+    "category": "utilities",
+    "amount": 87.5
+  },
+  {
+    "name": "comm health ctrs of the rutland region donotreply",
+    "cycle": "unknown",
+    "start_date": "2025-01-03",
+    "category": "other"
+  },
+  {
+    "name": "valvoline instant oil change invoice",
+    "cycle": "yearly",
+    "start_date": "2024-12-13",
+    "category": "streaming",
+    "amount": 93.59
+  },
+  {
+    "name": "jimmiy from target",
+    "cycle": "unknown",
+    "start_date": "2024-12-01",
+    "category": "software",
+    "amount": 20.45
+  },
+  {
+    "name": "brianna hanson briannahanson aromajoes",
+    "cycle": "unknown",
+    "start_date": "2024-11-11",
+    "category": "software"
+  },
+  {
+    "name": "doordash dashpass",
+    "cycle": "unknown",
+    "start_date": "2024-10-31",
+    "category": "software",
+    "is_trial": true,
+    "trial_duration_in_days": 90,
+    "trial_end_date": "2025-01-29"
+  },
+  {
+    "name": "squarespace",
+    "cycle": "unknown",
+    "start_date": "2024-10-19",
+    "category": "software",
+    "is_trial": true,
+    "trial_duration_in_days": null,
+    "trial_end_date": "2024-10-19"
+  },
+  {
+    "name": "squarespace",
+    "cycle": "unknown",
+    "start_date": "2024-10-17",
+    "category": "streaming",
+    "is_trial": true
+  },
+  {
+    "name": "new york times games",
+    "cycle": "unknown",
+    "start_date": "2025-02-13",
+    "category": "streaming",
+    "amount": 5.99,
+    "is_trial": true,
+    "trial_duration_in_days": 7,
+    "trial_end_date": "2025-02-20"
+  },
+  {
+    "name": "comfrt",
+    "cycle": "unknown",
+    "start_date": "2025-02-07",
+    "category": "software"
+  },
+  {
+    "name": "\"icloud+\" icloudplus",
+    "cycle": "unknown",
+    "start_date": "2025-02-05",
+    "category": "streaming"
+  },
+  {
+    "name": "the new york times nytdirect",
+    "cycle": "yearly",
+    "start_date": "2025-02-01",
+    "category": "streaming",
+    "amount": 1
+  },
+  {
+    "name": "apple music subscription",
+    "cycle": "unknown",
+    "start_date": "2025-01-28",
+    "category": "streaming",
+    "amount": 10.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "apple",
+    "cycle": "monthly",
+    "start_date": "2025-01-25",
+    "category": "streaming",
+    "amount": 9.99
+  },
+  {
+    "name": "vs pink victoriassecret",
+    "cycle": "unknown",
+    "start_date": "2025-01-22",
+    "category": "insurance"
+  },
+  {
+    "name": "elavina salon and spa",
+    "cycle": "unknown",
+    "start_date": "2025-01-18",
+    "category": "software",
+    "amount": 297
+  },
+  {
+    "name": "icloud+ with 200 gb of storage",
+    "cycle": "unknown",
+    "start_date": "2025-01-18",
+    "category": "software",
+    "amount": 2.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "betterme news",
+    "cycle": "unknown",
+    "start_date": "2025-01-16",
+    "category": "software"
+  },
+  {
+    "name": "converse converse",
+    "cycle": "unknown",
+    "start_date": "2025-01-16",
+    "category": "insurance"
+  },
+  {
+    "name": "elavina salon and spa",
+    "cycle": "unknown",
+    "start_date": "2025-01-15",
+    "category": "streaming",
+    "amount": 100
+  },
+  {
+    "name": "apartment list",
+    "cycle": "unknown",
+    "start_date": "2025-01-15",
+    "category": "software",
+    "amount": 21
+  },
+  {
+    "name": "patreon",
+    "cycle": "yearly",
+    "start_date": "2025-01-15",
+    "category": "streaming"
+  },
+  {
+    "name": "disney+ basic monthly",
+    "cycle": "monthly",
+    "start_date": "2025-01-12",
+    "category": "streaming",
+    "amount": 9.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "betterme",
+    "cycle": "unknown",
+    "start_date": "2025-01-11",
+    "category": "software",
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "an issue trying to process your payment to bistro huddy on patreon",
+    "cycle": "unknown",
+    "start_date": "2025-01-06",
+    "category": "entertainment"
+  },
+  {
+    "name": "aritzia",
+    "cycle": "unknown",
+    "start_date": "2025-01-05",
+    "category": "other"
+  },
+  {
+    "name": "apple fitness+",
+    "cycle": "unknown",
+    "start_date": "2025-01-02",
+    "category": "streaming",
+    "amount": 9.99,
+    "is_trial": true,
+    "trial_duration_in_days": 30,
+    "trial_end_date": null
+  },
+  {
+    "name": "best buy bestbuy",
+    "cycle": "unknown",
+    "start_date": "2024-12-31",
+    "category": "utilities"
+  },
+  {
+    "name": "apple annual plan",
+    "cycle": "yearly",
+    "start_date": "2024-12-30",
+    "category": "software",
+    "amount": 29.99,
+    "is_trial": true,
+    "trial_duration_in_days": 7,
+    "trial_end_date": "2025-01-06"
+  },
+  {
+    "name": "vsco",
+    "cycle": "monthly",
+    "start_date": "2024-12-28",
+    "category": "other",
+    "is_trial": true,
+    "trial_duration_in_days": 7,
+    "trial_end_date": "2025-01-04"
+  },
+  {
+    "name": "the new york times",
+    "cycle": "yearly",
+    "start_date": "2024-12-26",
+    "category": "streaming",
+    "amount": 50,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "stardust: period & pregnancy subscription",
+    "cycle": "yearly",
+    "start_date": "2024-12-24",
+    "category": "software",
+    "amount": 29.99,
+    "is_trial": true,
+    "trial_duration_in_days": 7,
+    "trial_end_date": "2024-12-31"
+  },
+  {
+    "name": "disney+",
+    "cycle": "monthly",
+    "start_date": "2024-12-16",
+    "category": "streaming",
+    "amount": 9.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "apple",
+    "cycle": "yearly",
+    "start_date": "2024-12-18",
+    "category": "utilities",
+    "amount": 2.99
+  },
+  {
+    "name": "pleasing",
+    "cycle": "unknown",
+    "start_date": "2024-12-13",
+    "category": "entertainment"
+  },
+  {
+    "name": "confirm your email to get updates",
+    "cycle": "unknown",
+    "start_date": "2024-12-11",
+    "category": "streaming"
+  },
+  {
+    "name": "universal orlando resort",
+    "cycle": "yearly",
+    "start_date": "2024-12-08",
+    "category": "utilities",
+    "amount": 250
+  },
+  {
+    "name": "\"rhythm & radio\" donotreply",
+    "cycle": "unknown",
+    "start_date": "2024-12-03",
+    "category": "software"
+  },
+  {
+    "name": "snapchat+ monthly plan",
+    "cycle": "monthly",
+    "start_date": "2024-12-03",
+    "category": "software",
+    "amount": 3.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "il makiage",
+    "cycle": "unknown",
+    "start_date": "2024-12-03",
+    "category": "insurance",
+    "is_trial": true,
+    "trial_duration_in_days": 14,
+    "trial_end_date": "2024-12-17"
+  },
+  {
+    "name": "the nba",
+    "cycle": "unknown",
+    "start_date": "2024-12-02",
+    "category": "rent"
+  },
+  {
+    "name": "nyt puzzle mania nytimes",
+    "cycle": "yearly",
+    "start_date": "2024-12-01",
+    "category": "streaming",
+    "amount": 14
+  },
+  {
+    "name": "fanatics",
+    "cycle": "unknown",
+    "start_date": "2024-11-30",
+    "category": "software"
+  },
+  {
+    "name": "fanatics id",
+    "cycle": "unknown",
+    "start_date": "2024-11-30",
+    "category": "software"
+  },
+  {
+    "name": "flo period & pregnancy tracker flo premium",
+    "cycle": "yearly",
+    "start_date": "2024-11-25",
+    "category": "insurance",
+    "amount": 14.99,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "vizio account account",
+    "cycle": "unknown",
+    "start_date": "2024-11-13",
+    "category": "software"
+  },
+  {
+    "name": "faceapp pro",
+    "cycle": "monthly",
+    "start_date": "2024-11-12",
+    "category": "software",
+    "amount": 10,
+    "is_trial": null,
+    "trial_duration_in_days": null,
+    "trial_end_date": null
+  },
+  {
+    "name": "apple",
+    "cycle": "monthly",
+    "start_date": "2024-10-27",
+    "category": "software",
+    "amount": 10
+  },
+  {
+    "name": "your hampton poultney neighbors reply",
+    "cycle": "weekly",
+    "start_date": "2024-10-15",
+    "category": "other"
+  }
+]
